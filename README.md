@@ -7,3 +7,5 @@
 - The sub-directories in `Courses` directory contain individual course certfificates for the specializations.
 
 - The `Coursera Project Network` directory contains mini-course certificates provided by Coursera.
+
+- All the certificates have verifiable links in the bottom right corner.
